@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2800&pause=1000&color=0FF0FC&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Initializing+developer+profile...+%5BDONE%5D;%3E+Loading+skills+%26+experience...+%5B████████████%5D+100%25;%3E+git+status%3A+Always+building%2C+never+stopping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=0FF0FC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Initializing+developer+profile...+%5BDONE%5D;%3E+Loading+skills+%26+experience...+%5B100%25+COMPLETE%5D;%3E+git+status%3A+Always+building%2C+never+stopping." alt="Typing SVG" />
 </a>
 
 <br/>
